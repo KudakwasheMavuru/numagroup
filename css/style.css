@@ -20,7 +20,7 @@ body {
 p, .paragraph {
   font-weight: 300;
   color: #4d546f;
-  font-size: 17px;
+  font-size: 14 px;
   line-height: 31px;
   font-family: "Poppins", sans-serif;
 }
@@ -33,19 +33,19 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 h1, .h1 {
-  font-size: 56px;
+  font-size: 46px;
 }
 
 h2, .h2 {
-  font-size: 43px;
+  font-size: 30px;
 }
 
 h3, .h3 {
-  font-size: 37px;
+  font-size: 25px;
 }
 
 h4, .h4 {
-  font-size: 22px;
+  font-size: 18px;
 }
 
 h5, .h5 {
